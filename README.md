@@ -1,8 +1,9 @@
 # Visualización Computacional de un Dipolo Eléctrico Oscilante
 
 **Curso:** FS0820 Electromagnetismo II  
-**Profesora:** Marcela Hernández-Jiménez  
-**Semestre:** II-2026  
+**Profesora:** Marcela Hernández Jiménez
+**Estudiantes:** Manfred Alvarado López (10318) / Anaité Chaves Ramirez (C12154)  
+**Semestre:** II-2026 
 
 ---
 
